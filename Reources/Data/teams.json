@@ -1,0 +1,21 @@
+{
+  "1": {
+    "createdAt": {
+      "date": "dd/mm/yy",
+      "time": "hh:mm"
+    },
+    "createdBy": "1",         // userID
+    "matches": [ "1" ],  // matchID
+    "members": [ "1", "2" ]   // userID
+  },
+
+  "2": {
+    "createdAt": {
+      "date": "dd/mm/yy",
+      "time": "hh:mm"
+    },
+    "createdBy": "3",
+    "matches": [],
+    "members": [ "1" ]
+  }
+}

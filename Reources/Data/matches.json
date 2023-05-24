@@ -1,0 +1,25 @@
+{
+  "1": {
+    "byTeam": true,
+    "team": "1",        // teamID
+    "createdBy": "1",   // userID
+    "date": {
+      "day": "dd/mm/yy",
+      "time": "hh:mm"
+    },
+    "stadium": "cancha",
+    "players": [
+      {
+        "user": "1",
+        "isTeamA": true
+      },
+      {
+        "user": "2",
+        "team": "B"
+      }
+    ],
+    "resultTeamA": 4,
+    "resultTeamB": 3,
+    "matchType": "F5"
+  }
+}
